@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "com.aluminum.sosystem": "https://github.com/Aluminum18/unity-lib.git?path=Assets/ScriptableObjectSystem/MainModules",
+    "com.aluminum.uicreator": "https://github.com/Aluminum18/UICreatorDotween.git?path=Assets/Scripts",
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.unity.collab-proxy": "1.17.7",
     "com.unity.ide.rider": "3.0.16",
     "com.unity.ide.visualstudio": "2.0.16",

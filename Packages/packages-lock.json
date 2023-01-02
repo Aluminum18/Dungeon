@@ -1,5 +1,26 @@
 {
   "dependencies": {
+    "com.aluminum.sosystem": {
+      "version": "https://github.com/Aluminum18/unity-lib.git?path=Assets/ScriptableObjectSystem/MainModules",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b035a5e367c4474f41a3e6478dd5a369b15e793e"
+    },
+    "com.aluminum.uicreator": {
+      "version": "https://github.com/Aluminum18/UICreatorDotween.git?path=Assets/Scripts",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "58ff76def74e76e14f3142bb4ea9f963cf1da7a9"
+    },
+    "com.cysharp.unitask": {
+      "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "73d86259ce31ce7f4dfe1d028ea1c3edf96c23e4"
+    },
     "com.unity.burst": {
       "version": "1.7.3",
       "depth": 1,
